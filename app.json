@@ -32,7 +32,7 @@
     "USER_IMAGES": {
       "description": "Image for Bot. You can Place several Sparated by Commas.",
       "required" :true,    
-      "value": "https://telegra.ph/file/b42cbd63877fd9d93e5ab.jpg"
+      "value": "https://telegra.ph/file/c49429f9051bd41ad96dc.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
