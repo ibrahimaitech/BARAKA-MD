@@ -49,7 +49,7 @@ global.waPresence= process.env.WAPRESENCE ||  "set according to your need" ; // 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
 global.readmessage = process.env.READ_MESSAGE || "false"
-global.readmessagefrom = process.env.READ_MESSAGE_FROM || "255762190568,255679513639,254710772666";
+global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254710772666";
 
 
 //========================= [ AUTO SAVE & READ STATUS ] =========================\\
